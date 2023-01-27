@@ -1,7 +1,0 @@
-version: "3.7"
-
-services:
-  run:
-    image: "rdw4harbinger/mrs-compiler:latest"
-    volumes:
-      - ./:/home/cpa
